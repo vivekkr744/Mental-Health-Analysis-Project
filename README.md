@@ -27,14 +27,14 @@ A machine learning-powered web application that predicts an individual's mental 
 git clone https://github.com/vivekkr744/Mental-Health-Analysis-Project.git
 cd Mental-Health-Analysis-Project
 
-📈 Model Information
+## 📈 Model Information
 Algorithm Used: Random Forest Classifier
 Accuracy: 96%
 Validation: Stratified K-Fold Cross-Validation
 Metrics Used: Accuracy, Precision, Recall, F1-Score
 Evaluation Tools: Confusion Matrix, Classification Report
 
-👨‍💻 About the Author
+##👨‍💻 About the Author
 Vivek Kumar
 🎓 Aspiring Data Scientist | 💻 Machine Learning Enthusiast
 📍 India
